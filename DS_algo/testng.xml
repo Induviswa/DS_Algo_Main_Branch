@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="BaseUtils.IListeners"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true"
+          name="/Users/Indu/Indu_Files/DS_algo/src/test/java/Testcases/PortalpageTestcase.java">
+        <classes>
+            <class name="Testcases.PortalPageITestcase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/Indu/Indu_Files/DS_algo/src/test/java/Testcases/HomepageTestcase.java">
+        <classes>
+            <class name="Testcases.HomePageITestcase">
+            </class>
+        </classes>
+    </test>
+<test verbose="2" preserve-order="true"
+      name="/Users/Indu/Indu_Files/DS_algo/src/test/java/Testcases/RegistrationTestcase.java">
+<classes>
+    <class name="Testcases.RegistrationPageITestCase">
+    </class>
+</classes>
+</test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/Indu/Indu_Files/DS_algo/src/test/java/Testcases/SignTestCase.java">
+        <classes>
+            <class name="Testcases.SigninTestICase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/Indu/Indu_Files/DS_algo/src/test/java/Testcases/Data_Structure.java">
+        <classes>
+            <class name="Testcases.Data_StructurePageITestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/Indu/Indu_Files/DS_algo/src/test/java/Testcases/ArrayTestCase.java">
+        <classes>
+            <class name="Testcases.ArrayPageITestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/Indu/Indu_Files/DS_algo/src/test/java/Testcases/GraphTestCase.java">
+        <classes>
+            <class name="Testcases.GraphPageITestCase">
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,55 @@
+[INFO ] 2022-09-20 09:57:04.548 [main] PortalPage_I - Portal Page validation successfull
+[INFO ] 2022-09-20 09:57:04.993 [main] PortalPage_I - Get Started Button clicked successfully
+[INFO ] 2022-09-20 09:57:04.998 [main] PortalPage_I - Validate Home Page Title
+[INFO ] 2022-09-20 09:57:04.998 [main] PortalPage_I - Portal page validation successfull
+[INFO ] 2022-09-20 09:57:07.445 [main] PortalPage_I - Get Started Button clicked successfully
+[INFO ] 2022-09-20 09:57:07.456 [main] PortalPage_I - Validate Home Page Title
+[INFO ] 2022-09-20 09:57:07.456 [main] PortalPage_I - Portal page validation successfull
+[INFO ] 2022-09-20 09:57:08.512 [main] HomePage_I - Total number of dropdown list is 6
+[INFO ] 2022-09-20 09:57:08.679 [main] HomePage_I - Validate Login Page Title
+[INFO ] 2022-09-20 09:57:08.832 [main] HomePage_I - Validate Register Page Title
+[INFO ] 2022-09-20 09:57:11.224 [main] PortalPage_I - Get Started Button clicked successfully
+[INFO ] 2022-09-20 09:57:11.232 [main] PortalPage_I - Validate Home Page Title
+[INFO ] 2022-09-20 09:57:11.232 [main] PortalPage_I - Portal page validation successfull
+[INFO ] 2022-09-20 09:57:11.398 [main] HomePage_I - Validate Register Page Title
+[INFO ] 2022-09-20 09:57:11.525 [main] RegistrationPage_I - All Blank Scenario completed successfully
+[INFO ] 2022-09-20 09:57:11.749 [main] RegistrationPage_I - Password Scenario blank completed successfully
+[INFO ] 2022-09-20 09:57:11.960 [main] RegistrationPage_I - Confirm Password blank Scenario completed successfully
+[INFO ] 2022-09-20 09:57:12.300 [main] RegistrationPage_I - Username mis-match scenario completed successfully
+[INFO ] 2022-09-20 09:57:15.613 [main] RegistrationPage_I - Password mis-match scenario completed successfully
+[INFO ] 2022-09-20 09:57:17.247 [main] RegistrationPage_I - New account created successfully
+[INFO ] 2022-09-20 09:57:19.526 [main] PortalPage_I - Get Started Button clicked successfully
+[INFO ] 2022-09-20 09:57:19.533 [main] PortalPage_I - Validate Home Page Title
+[INFO ] 2022-09-20 09:57:19.533 [main] PortalPage_I - Portal page validation successfull
+[INFO ] 2022-09-20 09:57:19.717 [main] HomePage_I - Validate Login Page Title
+[INFO ] 2022-09-20 09:57:19.886 [main] SigninPage_I - Blank username and password validation successful
+[INFO ] 2022-09-20 09:57:20.070 [main] SigninPage_I - Blank password validation successful
+[INFO ] 2022-09-20 09:57:20.243 [main] SigninPage_I - Blank username validation successful
+[INFO ] 2022-09-20 09:57:21.769 [main] SigninPage_I - Valid credentials successful
+[INFO ] 2022-09-20 09:57:22.020 [main] SigninPage_I - Sign out successfull
+[INFO ] 2022-09-20 09:57:24.346 [main] PortalPage_I - Get Started Button clicked successfully
+[INFO ] 2022-09-20 09:57:24.352 [main] PortalPage_I - Validate Home Page Title
+[INFO ] 2022-09-20 09:57:24.353 [main] PortalPage_I - Portal page validation successfull
+[INFO ] 2022-09-20 09:57:24.512 [main] HomePage_I - Validate Login Page Title
+[INFO ] 2022-09-20 09:57:25.608 [main] SigninPage_I - Valid credentials successful
+[INFO ] 2022-09-20 09:57:25.821 [main] Data_StructurePage_I - Get started button click successfull
+[INFO ] 2022-09-20 09:57:26.027 [main] Data_StructurePage_I - Time Complexity link clicked successfull
+[INFO ] 2022-09-20 09:57:26.185 [main] Data_StructurePage_I - Practice Questions link clicked successfull
+[INFO ] 2022-09-20 09:57:26.909 [main] Data_StructurePage_I - Data Structure code validation completed successfull
+[INFO ] 2022-09-20 09:57:29.206 [main] PortalPage_I - Get Started Button clicked successfully
+[INFO ] 2022-09-20 09:57:29.212 [main] PortalPage_I - Validate Home Page Title
+[INFO ] 2022-09-20 09:57:29.212 [main] PortalPage_I - Portal page validation successfull
+[INFO ] 2022-09-20 09:57:29.380 [main] HomePage_I - Validate Login Page Title
+[INFO ] 2022-09-20 09:57:30.478 [main] SigninPage_I - Valid credentials successful
+[INFO ] 2022-09-20 09:57:30.682 [main] ArrayPage_I - Successfully clicked the Array
+[INFO ] 2022-09-20 09:57:30.998 [main] ArrayPage_I - successfully clicked Array in Python
+[INFO ] 2022-09-20 09:57:31.908 [main] ArrayPage_I - successfully clicked Arrays Using List
+[INFO ] 2022-09-20 09:57:32.468 [main] ArrayPage_I - successfully Basic Operations in Lists
+[INFO ] 2022-09-20 09:57:36.100 [main] ArrayPage_I - successfully clicked Applications Array
+[INFO ] 2022-09-20 09:57:40.849 [main] PortalPage_I - Get Started Button clicked successfully
+[INFO ] 2022-09-20 09:57:40.854 [main] PortalPage_I - Validate Home Page Title
+[INFO ] 2022-09-20 09:57:40.854 [main] PortalPage_I - Portal page validation successfull
+[INFO ] 2022-09-20 09:57:41.032 [main] HomePage_I - Validate Login Page Title
+[INFO ] 2022-09-20 09:57:42.007 [main] SigninPage_I - Valid credentials successful
+[INFO ] 2022-09-20 09:57:42.222 [main] ArrayPage_I - successfully clicked Graph
+[INFO ] 2022-09-20 09:57:44.365 [main] ArrayPage_I - successfully clicked Graph Representations
