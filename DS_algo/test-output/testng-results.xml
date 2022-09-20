@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="29" passed="29" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-16T12:54:44 PDT" name="Default suite" finished-at="2022-09-16T12:57:12 PDT" duration-ms="147815">
+    <groups>
+    </groups>
+    <test started-at="2022-09-16T12:54:44 PDT" name="Default test" finished-at="2022-09-16T12:57:12 PDT" duration-ms="147815">
+      <class name="ds.algo.testcases.TestTree">
+        <test-method is-config="true" signature="Driver()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:54:43 PDT" name="Driver" finished-at="2022-09-16T12:54:44 PDT" duration-ms="1456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driver -->
+        <test-method is-config="true" signature="SucessLogin()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:54:44 PDT" name="SucessLogin" finished-at="2022-09-16T12:54:50 PDT" duration-ms="5541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SucessLogin -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:54:50 PDT" name="OpenPortal" finished-at="2022-09-16T12:54:53 PDT" duration-ms="3442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestApplicationsofBinarytrees()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:54:53 PDT" name="TestApplicationsofBinarytrees" finished-at="2022-09-16T12:54:55 PDT" duration-ms="1261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestApplicationsofBinarytrees -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:54:55 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:54:55 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestApplicationsofBinarytrees status=SUCCESS method=TestTree.TestApplicationsofBinarytrees()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:54:55 PDT" name="OpenPortal" finished-at="2022-09-16T12:54:58 PDT" duration-ms="3673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestApplicationsofBinarytreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:54:58 PDT" name="TestApplicationsofBinarytreesTryHere" finished-at="2022-09-16T12:55:03 PDT" duration-ms="4636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestApplicationsofBinarytreesTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:03 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:55:03 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestApplicationsofBinarytreesTryHere status=SUCCESS method=TestTree.TestApplicationsofBinarytreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:03 PDT" name="OpenPortal" finished-at="2022-09-16T12:55:06 PDT" duration-ms="3457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestBinarySearchTrees()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:06 PDT" name="TestBinarySearchTrees" finished-at="2022-09-16T12:55:09 PDT" duration-ms="2314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBinarySearchTrees -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:09 PDT" name="OpenPortal" finished-at="2022-09-16T12:55:12 PDT" duration-ms="3770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:09 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:55:09 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinarySearchTrees status=SUCCESS method=TestTree.TestBinarySearchTrees()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="TestBinarySearchTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:12 PDT" name="TestBinarySearchTreesTryHere" finished-at="2022-09-16T12:55:14 PDT" duration-ms="1620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBinarySearchTreesTryHere -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:14 PDT" name="OpenPortal" finished-at="2022-09-16T12:55:18 PDT" duration-ms="3476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:14 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:55:14 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinarySearchTreesTryHere status=SUCCESS method=TestTree.TestBinarySearchTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="TestBinaryTreeTraversals()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:18 PDT" name="TestBinaryTreeTraversals" finished-at="2022-09-16T12:55:19 PDT" duration-ms="1249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBinaryTreeTraversals -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:19 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:55:19 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinaryTreeTraversals status=SUCCESS method=TestTree.TestBinaryTreeTraversals()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:19 PDT" name="OpenPortal" finished-at="2022-09-16T12:55:22 PDT" duration-ms="3656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestBinaryTreeTraversalsTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:22 PDT" name="TestBinaryTreeTraversalsTryHere" finished-at="2022-09-16T12:55:24 PDT" duration-ms="1579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBinaryTreeTraversalsTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:24 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:55:24 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinaryTreeTraversalsTryHere status=SUCCESS method=TestTree.TestBinaryTreeTraversalsTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:24 PDT" name="OpenPortal" finished-at="2022-09-16T12:55:28 PDT" duration-ms="3566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestBinaryTrees()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:28 PDT" name="TestBinaryTrees" finished-at="2022-09-16T12:55:29 PDT" duration-ms="1387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBinaryTrees -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:29 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:55:29 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinaryTrees status=SUCCESS method=TestTree.TestBinaryTrees()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:29 PDT" name="OpenPortal" finished-at="2022-09-16T12:55:33 PDT" duration-ms="3726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestBinaryTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:33 PDT" name="TestBinaryTreesTryHere" finished-at="2022-09-16T12:55:35 PDT" duration-ms="2105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBinaryTreesTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:35 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:55:35 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestBinaryTreesTryHere status=SUCCESS method=TestTree.TestBinaryTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:35 PDT" name="OpenPortal" finished-at="2022-09-16T12:55:38 PDT" duration-ms="3449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestClickGetTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:38 PDT" name="TestClickGetTryHere" finished-at="2022-09-16T12:55:41 PDT" duration-ms="2346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestClickGetTryHere -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:41 PDT" name="OpenPortal" finished-at="2022-09-16T12:55:44 PDT" duration-ms="3484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:41 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:55:41 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestClickGetTryHere status=SUCCESS method=TestTree.TestClickGetTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="TestGetTabRun()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:44 PDT" name="TestGetTabRun" finished-at="2022-09-16T12:55:45 PDT" duration-ms="989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGetTabRun -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:45 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:55:45 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestGetTabRun status=SUCCESS method=TestTree.TestGetTabRun()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:45 PDT" name="OpenPortal" finished-at="2022-09-16T12:55:49 PDT" duration-ms="3460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationOfBST()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:49 PDT" name="TestImplementationOfBST" finished-at="2022-09-16T12:55:49 PDT" duration-ms="820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationOfBST -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:49 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:55:49 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationOfBST status=SUCCESS method=TestTree.TestImplementationOfBST()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:49 PDT" name="OpenPortal" finished-at="2022-09-16T12:55:53 PDT" duration-ms="3644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationOfBSTTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:53 PDT" name="TestImplementationOfBSTTryHere" finished-at="2022-09-16T12:55:55 PDT" duration-ms="2328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationOfBSTTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:55 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:55:55 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationOfBSTTryHere status=SUCCESS method=TestTree.TestImplementationOfBSTTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:55 PDT" name="OpenPortal" finished-at="2022-09-16T12:55:59 PDT" duration-ms="3403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationinPython()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:55:59 PDT" name="TestImplementationinPython" finished-at="2022-09-16T12:56:00 PDT" duration-ms="940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationinPython -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:00 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:56:00 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationinPython status=SUCCESS method=TestTree.TestImplementationinPython()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:00 PDT" name="OpenPortal" finished-at="2022-09-16T12:56:03 PDT" duration-ms="3460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationinPythonTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:03 PDT" name="TestImplementationinPythonTryHere" finished-at="2022-09-16T12:56:04 PDT" duration-ms="1244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationinPythonTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:04 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:56:04 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationinPythonTryHere status=SUCCESS method=TestTree.TestImplementationinPythonTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:04 PDT" name="OpenPortal" finished-at="2022-09-16T12:56:08 PDT" duration-ms="3423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationofBinaryTrees()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:08 PDT" name="TestImplementationofBinaryTrees" finished-at="2022-09-16T12:56:09 PDT" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationofBinaryTrees -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:09 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:56:09 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationofBinaryTrees status=SUCCESS method=TestTree.TestImplementationofBinaryTrees()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:09 PDT" name="OpenPortal" finished-at="2022-09-16T12:56:12 PDT" duration-ms="3392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestImplementationofBinaryTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:12 PDT" name="TestImplementationofBinaryTreesTryHere" finished-at="2022-09-16T12:56:13 PDT" duration-ms="1225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestImplementationofBinaryTreesTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:13 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:56:13 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestImplementationofBinaryTreesTryHere status=SUCCESS method=TestTree.TestImplementationofBinaryTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:13 PDT" name="OpenPortal" finished-at="2022-09-16T12:56:17 PDT" duration-ms="3426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestOverview()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:17 PDT" name="TestOverview" finished-at="2022-09-16T12:56:18 PDT" duration-ms="824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOverview -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:18 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:56:18 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestOverview status=SUCCESS method=TestTree.TestOverview()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:18 PDT" name="OpenPortal" finished-at="2022-09-16T12:56:21 PDT" duration-ms="3581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestPracticeQuestions()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:21 PDT" name="TestPracticeQuestions" finished-at="2022-09-16T12:56:22 PDT" duration-ms="730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPracticeQuestions -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:22 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:56:22 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestPracticeQuestions status=SUCCESS method=TestTree.TestPracticeQuestions()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:22 PDT" name="OpenPortal" finished-at="2022-09-16T12:56:25 PDT" duration-ms="3403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTerminologies()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:25 PDT" name="TestTerminologies" finished-at="2022-09-16T12:56:26 PDT" duration-ms="720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTerminologies -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:26 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:56:26 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTerminologies status=SUCCESS method=TestTree.TestTerminologies()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:26 PDT" name="OpenPortal" finished-at="2022-09-16T12:56:30 PDT" duration-ms="3635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTerminologiesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:30 PDT" name="TestTerminologiesTryHere" finished-at="2022-09-16T12:56:31 PDT" duration-ms="1298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTerminologiesTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:31 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:56:31 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTerminologiesTryHere status=SUCCESS method=TestTree.TestTerminologiesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:31 PDT" name="OpenPortal" finished-at="2022-09-16T12:56:34 PDT" duration-ms="3412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTraversal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:34 PDT" name="TestTraversal" finished-at="2022-09-16T12:56:35 PDT" duration-ms="898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTraversal -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:35 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:56:35 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTraversal status=SUCCESS method=TestTree.TestTraversal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:35 PDT" name="OpenPortal" finished-at="2022-09-16T12:56:39 PDT" duration-ms="3403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTraversalTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:39 PDT" name="TestTraversalTryHere" finished-at="2022-09-16T12:56:40 PDT" duration-ms="1259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTraversalTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:40 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:56:40 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTraversalTryHere status=SUCCESS method=TestTree.TestTraversalTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:40 PDT" name="OpenPortal" finished-at="2022-09-16T12:56:43 PDT" duration-ms="3407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTraversalsIllustration()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:43 PDT" name="TestTraversalsIllustration" finished-at="2022-09-16T12:56:45 PDT" duration-ms="1280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTraversalsIllustration -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:45 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:56:45 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTraversalsIllustration status=SUCCESS method=TestTree.TestTraversalsIllustration()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:45 PDT" name="OpenPortal" finished-at="2022-09-16T12:56:48 PDT" duration-ms="3425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTraversalsIllustrationTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:48 PDT" name="TestTraversalsIllustrationTryHere" finished-at="2022-09-16T12:56:49 PDT" duration-ms="1227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTraversalsIllustrationTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:49 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:56:49 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTraversalsIllustrationTryHere status=SUCCESS method=TestTree.TestTraversalsIllustrationTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:49 PDT" name="OpenPortal" finished-at="2022-09-16T12:56:53 PDT" duration-ms="3408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTreeStarted()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:53 PDT" name="TestTreeStarted" finished-at="2022-09-16T12:56:53 PDT" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTreeStarted -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:53 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:56:53 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTreeStarted status=SUCCESS method=TestTree.TestTreeStarted()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:53 PDT" name="OpenPortal" finished-at="2022-09-16T12:56:56 PDT" duration-ms="3426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTypesOfBinaryTrees()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:56 PDT" name="TestTypesOfBinaryTrees" finished-at="2022-09-16T12:56:58 PDT" duration-ms="1381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTypesOfBinaryTrees -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:58 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:56:58 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTypesOfBinaryTrees status=SUCCESS method=TestTree.TestTypesOfBinaryTrees()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:56:58 PDT" name="OpenPortal" finished-at="2022-09-16T12:57:01 PDT" duration-ms="3674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method signature="TestTypesOfBinaryTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:57:01 PDT" name="TestTypesOfBinaryTreesTryHere" finished-at="2022-09-16T12:57:03 PDT" duration-ms="1285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTypesOfBinaryTreesTryHere -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:57:03 PDT" name="OpenPortal" finished-at="2022-09-16T12:57:06 PDT" duration-ms="3418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:57:03 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:57:03 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTypesOfBinaryTreesTryHere status=SUCCESS method=TestTree.TestTypesOfBinaryTreesTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="TestTypesOfTree()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:57:06 PDT" name="TestTypesOfTree" finished-at="2022-09-16T12:57:07 PDT" duration-ms="688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTypesOfTree -->
+        <test-method is-config="true" signature="OpenPortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:57:07 PDT" name="OpenPortal" finished-at="2022-09-16T12:57:10 PDT" duration-ms="3668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPortal -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:57:07 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:57:07 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTypesOfTree status=SUCCESS method=TestTree.TestTypesOfTree()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="TestTypesOfTreeTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:57:10 PDT" name="TestTypesOfTreeTryHere" finished-at="2022-09-16T12:57:12 PDT" duration-ms="1477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTypesOfTreeTryHere -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:57:12 PDT" name="takeScreenshotOnFailure" finished-at="2022-09-16T12:57:12 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestTypesOfTreeTryHere status=SUCCESS method=TestTree.TestTypesOfTreeTryHere()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="ClosePortal()[pri:0, instance:ds.algo.testcases.TestTree@3f270e0a]" started-at="2022-09-16T12:57:12 PDT" name="ClosePortal" finished-at="2022-09-16T12:57:12 PDT" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosePortal -->
+      </class> <!-- ds.algo.testcases.TestTree -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
